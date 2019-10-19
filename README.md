@@ -10,4 +10,4 @@ pip install /path/to/reqs.txt
 ```
 
 ##
-rendered notebook is here: https://nbviewer.jupyter.org/github/miladce/Bayesian-network-learning/blob/master/main.ipynb
+rendered notebook is available [here](https://nbviewer.jupyter.org/github/miladce/Bayesian-network-learning/blob/master/main.ipynb)
