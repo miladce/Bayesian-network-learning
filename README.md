@@ -8,3 +8,6 @@ for installing project dependencies via pip:
 ```
 pip install /path/to/reqs.txt
 ```
+
+##
+rendered notebook is here: https://nbviewer.jupyter.org/github/miladce/Bayesian-network-learning/blob/master/main.ipynb
